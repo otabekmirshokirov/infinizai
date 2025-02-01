@@ -1,0 +1,295 @@
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+.nav-link {
+  font-family: Orbitron;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+header {
+  padding: 30px 0px;
+}
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+.dark {
+  background-color: black;
+}
+
+.dark * {
+  color: white !important;
+}
+.left button {
+  width: 36px;
+  height: 36px;
+  top: 6px;
+  left: 6px;
+  color: #ffffff;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+.right button {
+  width: 116px;
+  height: 30px;
+  top: 16px;
+  left: 31px;
+  background: transparent;
+  cursor: pointer;
+}
+header {
+  background: linear-gradient(to left, #57b8ff 50%, hsl(0, 0%, 0%) 50%);
+
+}
+.next {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 209px;
+  margin-bottom: 250px;
+}
+.our {
+  display: flex;
+  justify-content: center;
+margin-bottom: 34px;
+  font-family: Orbitron;
+}
+.lorem {
+  display: flex;
+  justify-content: center;
+  font-family: Orbitron;
+
+  
+}
+.ipsum {
+  padding: 130px 60px 130px 60px;
+}
+section{
+    background: linear-gradient(to left, #FDD04A 50%, #FDD04A 50%);
+}
+.amara{
+    margin-top: 54px;
+    cursor: pointer;
+}
+.stop{
+    padding: 130px 60px 130px 60px;
+}
+.shop{
+    background-image: url("/images/bacrount.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+.gaming{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 99px;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 130px;
+}
+.off{
+    padding: 86px 60px 86px 60px;
+}
+.era{
+    display: flex;
+    justify-content: center;
+}
+.more{
+    background: linear-gradient(to left, hsl(0, 0%, 0%) 50%, hsl(0, 0%, 0%) 50%);
+}
+.wold{
+display: flex;
+align-items: center;
+
+}
+.wold img{
+    width: 1320px;
+height: 700px;
+top: 3404px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 75px;
+
+}
+.frute{
+   display: flex; 
+   justify-content: space-between;
+   align-items: center;
+   width: 1320px;
+height: 196px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 64px;
+
+}
+.left h2{
+    font-family: Orbitron;
+font-size: 64px;
+font-weight: 400;
+line-height: 74px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 541px;
+height: 74px;
+top: 44.39px;
+gap: 0px;
+opacity: 0px;
+color: white;
+
+}
+.right button{
+    width: 175px;
+    height: 70px;
+    top: 126.39px;
+    left: 1145px;
+    gap: 0px;
+    opacity: 0px;
+    background: #57B8FF;
+    color: white;
+    cursor: pointer;
+    
+}
+.leftt img{
+margin-bottom: 54px;
+}
+.leftt p{
+    width: 130px;
+    height: 18px;
+    top: 564.39px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Orbitron;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #57B8FF;
+        margin-bottom: 27px;
+}
+.leftt h3{
+    width: 607px;
+    height: 92px;
+    top: 610.39px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Orbitron;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 46px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+color: white; 
+
+
+}
+.rightt{
+    
+    
+    align-items: center;
+}
+.ps{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+.your{
+    padding: 129px 296px 129px 296px;
+}
+.join{
+    margin-bottom: 32px;
+}
+.join h2{
+    width: 746px;
+    height: 164px;
+    top: -3.61px;
+    left: 50.5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Orbitron;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 82px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+        
+}
+.nulla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 34px;
+}
+.nulla p{
+    width: 846px;
+height: 56px;
+top: 242.39px;
+left: 0.5px;
+gap: 0px;
+opacity: 0px;
+font-family: Orbitron;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+footer{
+    background-image: url("/images/img.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* styles.css */
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    display: none; /* Tugma dastlab yashirin bo'ladi */
+    font-size: 16px;
+
+}
+
+.back-to-top:hover {
+    background-color: hsl(0, 0%, 0%);
+    transition: all 0.5s;
+}
